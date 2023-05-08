@@ -4,7 +4,11 @@ Hi 👋 My name is Jorge Infante
 Computer Engineer and Web Developer
 -----------------------------------
 
-I am excited and eager to start my professional career and apply the knowledge I have acquired during the study of engineering even though I have not graduated yet, I am willing to learn and work to achieve my goals. I am a person with great capacity for teamwork and adaptability, which allows me to collaborate effectively on projects and solve problems. Furthermore, I possess good communication skills and a positive attitude towards learning. I'm looking for opportunities in computing areas like programming in C, Java, Python. I also know about web development and design, or in computer networks. Currently, I am in the eighth trimester of computer engineering at UAM Cuajimapla in Mexico City and taking a course at CoderHouse on Javascript to complement my knowledge. Also an English course although I already have a B2+ certification. I am looking for where I can learn and grow professionally while contributing my skills and knowledge for mutual success. If you are looking for someone committed, persistent and willing to work, I would be delighted to be part of your team.
+I am excited and eager to start my professional career and apply the knowledge I have acquired during the study of engineering even though I have not graduated yet, I am willing to learn and work to achieve my goals. 
+
+I am a person with great capacity for teamwork and adaptability, which allows me to collaborate effectively on projects and solve problems. Furthermore, I possess good communication skills and a positive attitude towards learning.I'm looking for opportunities in computing areas like programming in C, Java, Python. I also know about web development and design, or in computer networks. Currently, I am in the eighth trimester of computer engineering at UAM Cuajimapla in Mexico City and taking a course at CoderHouse on Javascript to complement my knowledge. Also an English course although I already have a B2+ certification. 
+
+I am looking for where I can learn and grow professionally while contributing my skills and knowledge for mutual success. If you are looking for someone committed, persistent and willing to work, I would be delighted to be part of your team.
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [jinfante2212@gmail.com](mailto:jinfante2212@gmail.com)
