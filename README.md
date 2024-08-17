@@ -65,21 +65,26 @@ I am looking for where I can learn and grow professionally while contributing my
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📊 GitHub Stats:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgeif2212&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeif2212&theme=tokyonight&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeif2212&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+  <div style="display: flex; justify-content: center;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=georgeif2212&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeif2212&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  </div>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeif2212&theme=tokyonight&hide_border=true" />
+
 </div>
+
 
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=georgeif2212&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-
-#### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=georgeif2212&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
+)
 
 #### ✍️ Final Thought
 <div align="center">
