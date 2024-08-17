@@ -66,24 +66,24 @@ I am looking for where I can learn and grow professionally while contributing my
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgeif2212&theme=merko&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeif2212&theme=merko&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeif2212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=georgeif2212&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeif2212&theme=tokyonight&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeif2212&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=georgeif2212&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-#### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <img src="https://github-profile-trophy.vercel.app/?username=georgeif2212&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 #### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=georgeif2212&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=georgeif2212&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+#### ✍️ Final Thought
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
