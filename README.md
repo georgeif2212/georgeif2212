@@ -64,27 +64,34 @@ I am looking for where I can learn and grow professionally while contributing my
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-![]()
-
-
-
-
-
-
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=georgeif2212&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=georgeif2212&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeif2212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=georgeif2212&theme=merko&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeif2212&theme=merko&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeif2212&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=georgeif2212&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=georgeif2212&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
 #### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</div>
 
 #### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=georgeif2212&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=georgeif2212&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=georgeif2212&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=georgeif2212&icon=0&color=3" />
+  </a>
+</div>
+
 
