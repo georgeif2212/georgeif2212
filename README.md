@@ -84,9 +84,8 @@ I am looking for where I can learn and grow professionally while contributing my
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=georgeif2212&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-)
 
-#### ✍️ Final Thought
+### ✍️ Final Thought
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
