@@ -94,7 +94,7 @@ I am looking for where I can learn and grow professionally while contributing my
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=georgeif2212&icon=0&color=3" />
+    <img src="https://visitcount.itsvg.in/api?id=georgeif2212&icon=0&color=1" />
   </a>
 </div>
 
