@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm George</h1>
+<h1 align="center">Hi 👋 I'm George</h1>
 
 <h3 align="center">A computer engineering student</h3>
 
@@ -92,10 +92,8 @@ I am looking for where I can learn and grow professionally while contributing my
 
 ---
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=georgeif2212&icon=0&color=1" />
-  </a>
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=georgeif2212&label=Profile%20views&color=0e75b6&style=flat" alt="georgeif2212" /> </p>
+
+
 
 
